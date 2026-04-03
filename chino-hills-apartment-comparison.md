@@ -87,9 +87,11 @@
 
 | 公寓 | 最近公園 | 特色 |
 |---|---|---|
-| **The Crossings** | Chino Hills Community Park（0.5 mi）| 33 英畝，剛完成 $1,010 萬翻新，3 座溜滑梯 |
-| **Santa Barbara** | English Springs Park | 8.2 英畝，兒童遊樂場 + 池塘看烏龜 |
-| **The Heights** | Crossroads Park | Chino Hills 首座**全包容式遊樂場**（inclusive playground） |
+| **The Crossings** | Chino Hills Community Park（~1 mi）| 33 英畝，剛完成 $1,010 萬翻新，遊樂場有遮陽設施 |
+| **Santa Barbara** | English Springs Park / Pinehurst Park | English Springs：8.2 英畝，兒童遊樂場 + 池塘看烏龜；Pinehurst：14 英畝，有**幼兒專用 Tot Lot + 無障礙鞦韆** |
+| **The Heights** | Veterans Park | 有**幼兒專區**（與大童分開），橡膠安全地墊，彩色攀爬設施，免費停車 |
+
+> **最推薦帶 2 歲幼兒的公園：** Veterans Park（專屬幼兒區）、Pinehurst Park（幼兒 Tot Lot）、Chino Hills Community Park（剛翻新）。
 
 ### B. 亞洲餐廳與超市
 
@@ -102,10 +104,10 @@ Chino Hills 的亞洲飲食資源**非常豐富**，三間公寓共享以下資�
 - **T&T 大統華**（2026 秋開幕）— Crossroads Marketplace, Peyton Dr 附近，**離 Crossings 最近**
 
 **餐廳精選：**
-- 中式：長安廚房（Changan Kitchen）、Happy Together、YGF 麻辣燙
-- 韓式：Inssa Korean Gastropub、Seoul Haus、Mindeulle
-- 日式：丸龜製麵（Marugame Udon）
-- 台式：iTaiwan Foods
+- 中式：長安廚房（Changan Kitchen, 15840 Soquel Canyon Pkwy）、Ray's Duck House（4721 Chino Hills Pkwy）、Happy Together、The Noodle（4183 Chino Hills Pkwy）、YGF 麻辣燙
+- 韓式：Inssa Korean Gastropub（400+ 則 Yelp 評價）、Soonheene（14230 Chino Hills Pkwy, 220+ 評價）、Seoul Haus、Mindeulle
+- 日式：丸龜製麵（Marugame Udon, 370+ 評價）
+- 台式：iTaiwan Foods、Tasty Spot Cafe
 
 > **三間公寓位置都能方便到達這些餐廳和超市。** Crossings 稍微靠近 99 Ranch 和即將開幕的 T&T 大統華。
 
@@ -114,16 +116,18 @@ Chino Hills 的亞洲飲食資源**非常豐富**，三間公寓共享以下資�
 **中英雙語：**
 | 名稱 | 地點 | 說明 |
 |---|---|---|
-| **Little Bean 小豆苗** | Chino Hills | 中英雙語，週一至週五 8am–6pm |
+| **Little Bean 小豆苗** | Chino Hills | 中英雙語，提供有機餐食（3 餐 + 2 點心），週一至週五 8am–6pm |
 | **Ting's Family Daycare** | 6133 Walnut Ave, Chino | 中英雙語，家庭式，2017 年成立 |
 | **Sunshine Montessori** | 14611 Pipeline Ave, Chino Hills | 中文沉浸式課程，收 6 週–12 歲，6am–6:30pm |
 
 **全英文（評價好）：**
 | 名稱 | 地點 | 說明 |
 |---|---|---|
+| **The Goddard School** | Chino Hills | 口碑極佳，有專屬 2 歲班（Learn from the Start 課程） |
 | **KinderCare** | 13815 Peyton Dr（離 Crossings 步行可達）| 全年齡，2026 招生中 |
-| **Kiddie Academy** | 15861 Pomona Rincon Rd | 72 則好評 |
-| **Everbrook Academy** | 3040 Chino Ave | 含 Twos 及 Early Preschool 課程 |
+| **Kiddie Academy** | 15861 Pomona Rincon Rd（離 Santa Barbara 很近）| 72 則好評，6:30am–6:30pm |
+| **Montessori of Chino Hills** | Chino Hills | 2–3 歲專班，強調自主學習 |
+| **Everbrook Academy** | 3040 Chino Ave | STEAM 課程，含 Twos 及 Early Preschool |
 | **CVUSD TOTS Academy** | 學區公立 | 師生比 1:4（2 歲），非常平價 |
 
 > 平均全日托嬰月費約 **$945/月**。
